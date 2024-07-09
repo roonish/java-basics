@@ -23,8 +23,8 @@ public class ronish_929420_a3a {
         // e. Stores the character ‘K’ in c
         c = 'K';
 
-        // f. Stores the Unicode code for ‘B’ in c 
-        c = (char) 'B';
+        // f. Stores the Unicode code for ‘B’(66) in c 
+        c = (char) 66;
 
         // Print the final values of a, b, and c
         System.out.println("a = " + a);
